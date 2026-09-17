@@ -2,6 +2,21 @@
 
 An interactive, full-stack chess training web application built with React, TypeScript, Tailwind CSS, Express, and Google Gemini AI.
 
+[![Live App Demo](https://img.shields.io/badge/Play_Live_Demo-Online-emerald?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-sbqly3mcjx4npoubzuvmgw-798448277145.us-east1.run.app)
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Run_in_Codespaces-1--Click-blue?style=for-the-badge&logo=github)](https://github.com/codespaces/new)
+
+---
+
+## 🚀 Instant Run Options
+
+You can run and play this project directly without installing anything locally:
+
+1. **[Live Deployed App](https://ais-pre-sbqly3mcjx4npoubzuvmgw-798448277145.us-east1.run.app)**: Play the live preview immediately in your web browser.
+2. **GitHub Codespaces (1-Click Cloud Dev)**:
+   - Click the **Run in Codespaces** button above or press `.` (period) while viewing this repository on GitHub.
+   - Choose **Create new Codespace**. The environment includes Node.js, automatically runs `npm install`, launches the development server on port 3000, and opens the preview in your browser automatically via `.devcontainer`.
+   - Add your `GEMINI_API_KEY` in the `.env` file or your Codespace secrets to enable the Grandmaster AI features.
+
 ---
 
 ## Features
