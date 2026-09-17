@@ -1,0 +1,6 @@
+{
+  "name": "Chess Practice & Progress Tracker",
+  "description": "Practice chess against multi-tier AI opponents, track your win rates and rating growth, and receive tactical hints and grandmaster recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
